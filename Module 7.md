@@ -23,7 +23,7 @@ Else
 struct eligib
 {
    int age;
-   char n[4];
+   char n[50];
 };
 int main()
 {
